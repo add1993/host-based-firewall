@@ -36,7 +36,7 @@ where k is the length of the input
 - I have added a JUnit test class to test my code as well as a main class to run some testcases.
 
 ### Project Design
-- I chose the adapter design pattern to create implement the project as it gives scalability to the project. We can add add other Firewall also in the future.
+- I chose the adapter design pattern to create implement the project as it gives scalability to the project. We can add other Firewall also in the future.
 - I chose trie tree to store the rule data as we can have a lot of data and trie's faster search and optimized space complexity will help in scaling the project. 
 
 ### Future Optimizations
@@ -46,6 +46,6 @@ where k is the length of the input
 
 ### Teams Interested In  
 **1. Policy Team**  
-**2. Data Team**
+**2. Data Team**   
 **3. Platform Team**
 
