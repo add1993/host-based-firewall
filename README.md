@@ -44,8 +44,3 @@ where k is the length of the input
 - We can try to optimize the trie tree to save further space to help scale better.
 - We can make the implemented functions synchronized to support multithreading.
 
-### Teams Interested In  
-**1. Policy Team**  
-**2. Data Team**   
-**3. Platform Team**
-
